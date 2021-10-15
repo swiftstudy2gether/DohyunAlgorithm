@@ -1,9 +1,8 @@
+#### [BOJ] 10828번 스택
 
-#### BOJ 10828번 스택
 
 
 ```swift
-
 struct Stack {
     var stack: [Int] = []
     
@@ -58,8 +57,5 @@ for i in 0...N - 1 {
         jennyStack.top()
     }
 }
-
 ```
-
-
 
